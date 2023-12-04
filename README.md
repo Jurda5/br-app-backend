@@ -1,5 +1,5 @@
 
-# Book Recommender
+# Book Recommender Backend
 
 ## Overview
 This Python-based application leverages FastAPI, Pandas, OpenAI, and Kaggle libraries to provide book recommendations. Users can input a brief description of a book they have read, and the system will identify the book, retrieve its details, and suggest similar books based on user ratings from a Kaggle dataset.
